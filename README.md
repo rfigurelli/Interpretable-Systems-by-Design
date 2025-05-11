@@ -17,3 +17,8 @@ We present a detailed architecture for transparent dynamic modeling and demonstr
 The white paper also explores why prevailing data-first, curve-fitting paradigms struggle with generalization, causal reasoning, and auditability. We argue that explainability must be a structural feature, not an add-on layer.
 
 Ultimately, this work outlines a principled foundation for building future-ready, explainable systems in any field that demands precision, responsibility, and trust.
+
+---
+
+➡️ **The full content is available at the following link:**
+[Interpretable Systems by Design: Structuring Models Around Purpose, Not Data](https://github.com/rfigurelli/Interpretable-Systems-by-Design/blob/main/Interpretable_Systems_by_Design_White_Paper_v1_0.md)
